@@ -1,6 +1,6 @@
 ### DeepLearning-With-PyTorch
 
-This repository contains my code solutions to Udacity's coursework ['Intro to Deep Learning with PyTorch'](https://www.udacity.com/course/deep-learning-pytorch--ud188).
+This repository contains my code solutions to Udacity's coursework ['Intro to Deep Learning with PyTorch'](https://www.udacity.com/course/deep-learning-pytorch--ud188) (-- in progress).
 
 **Course 1: Introduction to Neural Networks**
 
