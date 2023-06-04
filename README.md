@@ -1,6 +1,6 @@
 ### DeepLearning-With-PyTorch
 
-This repository contains my code solutions to Udacity's coursework ['Intro to Deep Learning with PyTorch'](https://www.udacity.com/course/deep-learning-pytorch--ud188) (-- in progress).
+This repository contains my exercise code solutions to Udacity's coursework ['Intro to Deep Learning with PyTorch'](https://www.udacity.com/course/deep-learning-pytorch--ud188) (-- in progress).
 
 **Course 1: Introduction to Neural Networks**
 
@@ -19,3 +19,6 @@ This repository contains my code solutions to Udacity's coursework ['Intro to De
 
 - Leveraging a pre-trained network: VGG as a fixed feature extractor to create new images by merging the content of one image with the style of another image. The feature layers of a target image are compared with the original content and style image layers to calculate content loss and style loss (via., gram matrix calculations of convolutional layers) and used to iteratively update the target image via back propagartion. 
   
+**Course 5: Recurrent Neural Networks**
+
+- Implementing a 2-layer recurrent neural network architecture that predicts a next character when given an input text sequence. Text data is preprocessed, characters encoded as one hot encoded integer vectors and RNN trained to generate new text.
