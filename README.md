@@ -1,6 +1,6 @@
 ### DeepLearning-With-PyTorch
 
-This repository contains my exercise code solutions to Udacity's coursework ['Intro to Deep Learning with PyTorch'](https://www.udacity.com/course/deep-learning-pytorch--ud188) (-- in progress).
+This repository contains my exercise code solutions to Udacity's coursework ['Intro to Deep Learning with PyTorch'](https://www.udacity.com/course/deep-learning-pytorch--ud188).
 
 **Course 1: Introduction to Neural Networks**
 
@@ -22,3 +22,7 @@ This repository contains my exercise code solutions to Udacity's coursework ['In
 **Course 5: Recurrent Neural Networks**
 
 - Implementing a 2-layer recurrent neural network architecture that predicts a next character when given an input text sequence. Text data is preprocessed, characters encoded as one hot encoded integer vectors and RNN trained to generate new text.
+
+**Course 6: Sentiment Prediction RNNs**
+
+- Implementing an embedding layer, 2 layer recurrent neural network architecture, fully connected layer with a sigmoid activation function to predict whether a movie review has a positive or negative sentiment. Text data is converted to lowercase, vectorized to integers, padded or truncated to maintain uniform input length, converted into tensors & batched as part of pre processing. A prediction function is written to carry out the necessary text pre-processing steps, & return an inference from the trained model.
